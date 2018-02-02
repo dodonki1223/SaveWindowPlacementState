@@ -1,0 +1,2 @@
+# SaveWindowPlacementState
+ウィンドウが閉じた時の状態を保持するウィンドウです。

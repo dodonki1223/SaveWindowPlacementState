@@ -1,0 +1,8 @@
+﻿#以下のフォルダを含まない
+/bin/
+/obj/
+/.vs/
+/Backup/
+SaveWindowPlacementState.suo
+SaveWindowPlacementState.v11.suo
+UpgradeLog.htm
